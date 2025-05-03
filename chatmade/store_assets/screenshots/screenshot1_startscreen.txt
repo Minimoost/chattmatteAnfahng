@@ -1,0 +1,5 @@
+# Screenshot 1: Startbildschirm
+
+- Size: 1920x1080 pixels (16:9)
+- Content: Startbildschirm mit "Neues Spiel starten" Button
+- Caption: "Willkommen bei ChatMate - Starte ein neues Spiel oder entdecke die Premium-Funktionen!"

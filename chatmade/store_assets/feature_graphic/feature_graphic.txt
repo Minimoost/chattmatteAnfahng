@@ -1,0 +1,8 @@
+# Feature Graphic Design for ChatMate
+
+- Size: 1024x500 pixels
+- Background: Gradient blue (#2196F3 to #0D47A1)
+- Two smartphones showing the ChatMate app interface
+- Text: "ChatMate - Baue eine einzigartige Beziehung auf"
+- Text position: Top third of the image
+- Font: Roboto Bold, white
